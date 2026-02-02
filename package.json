@@ -42,7 +42,7 @@
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.53.1",
     "valibot": "^1.2.0",
-    "vitepress": "2.0.0-alpha.15",
+    "vitepress": "2.0.0-alpha.16",
     "vitepress-mermaid-renderer": "^1.1.7",
     "vitepress-plugin-mermaid": "^2.0.17",
     "vue": "^3.5.27",
